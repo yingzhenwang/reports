@@ -1,0 +1,9 @@
+title: Reports
+description: Public reports and research notes
+lang: zh-CN
+baseurl: /reports
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+show_excerpts: false
