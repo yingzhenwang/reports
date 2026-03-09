@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f8fafc"/>
+  <text x="60" y="60" font-size="30" font-weight="700" fill="#0f172a">美伊冲突情景矩阵</text>
+  <text x="60" y="92" font-size="16" fill="#475569">横轴为能源/海运扰动程度，纵轴为军事与地区升级程度。</text>
+  <line x1="190" y1="640" x2="1080" y2="640" stroke="#334155" stroke-width="3"/>
+  <line x1="190" y1="640" x2="190" y2="150" stroke="#334155" stroke-width="3"/>
+  <text x="535" y="706" font-size="20" font-weight="700" fill="#1e293b">能源与海运扰动</text>
+  <text x="270" y="732" font-size="16" fill="#64748b">低</text>
+  <text x="980" y="732" font-size="16" fill="#64748b">高</text>
+  <text x="64" y="420" font-size="20" font-weight="700" fill="#1e293b" transform="rotate(-90 64 420)">军事与地区升级</text>
+  <text x="92" y="590" font-size="16" fill="#64748b">低</text>
+  <text x="92" y="196" font-size="16" fill="#64748b">高</text>
+
+  <rect x="210" y="170" width="410" height="220" rx="20" ry="20" fill="#e0f2fe" stroke="#7dd3fc"/>
+  <text x="240" y="212" font-size="26" font-weight="700" fill="#075985">情景 1｜有限但高烈度军事对抗</text>
+  <text x="240" y="248" font-size="18" fill="#0f172a">• 直接打击继续，但海峡未长期失能</text>
+  <text x="240" y="278" font-size="18" fill="#0f172a">• 代理网络有限活跃</text>
+  <text x="240" y="308" font-size="18" fill="#0f172a">• 更像高烈度受控冲突</text>
+  <text x="240" y="348" font-size="18" font-weight="700" fill="#075985">对外部市场：波动高，但尚可管理</text>
+
+  <rect x="660" y="170" width="410" height="220" rx="20" ry="20" fill="#fee2e2" stroke="#fca5a5"/>
+  <text x="690" y="212" font-size="26" font-weight="700" fill="#991b1b">情景 2｜地区秩序危机</text>
+  <text x="690" y="248" font-size="18" fill="#0f172a">• 霍尔木兹/红海同步受扰</text>
+  <text x="690" y="278" font-size="18" fill="#0f172a">• 海湾能源设施受打击</text>
+  <text x="690" y="308" font-size="18" fill="#0f172a">• 代理网络与多战线升级</text>
+  <text x="690" y="348" font-size="18" font-weight="700" fill="#991b1b">对外部市场：系统性风险显著上升</text>
+
+  <rect x="210" y="420" width="410" height="180" rx="20" ry="20" fill="#ecfccb" stroke="#bef264"/>
+  <text x="240" y="462" font-size="26" font-weight="700" fill="#3f6212">情景 3｜受控降级</text>
+  <text x="240" y="498" font-size="18" fill="#0f172a">• 外交渠道恢复</text>
+  <text x="240" y="528" font-size="18" fill="#0f172a">• 海运逐步恢复</text>
+  <text x="240" y="558" font-size="18" fill="#0f172a">• 冲突回到威慑与警告层面</text>
+
+  <rect x="660" y="420" width="410" height="180" rx="20" ry="20" fill="#ffedd5" stroke="#fdba74"/>
+  <text x="690" y="462" font-size="26" font-weight="700" fill="#9a3412">情景 4｜慢性化能源冲击</text>
+  <text x="690" y="498" font-size="18" fill="#0f172a">• 军事升级有限，但海运/保险高位受扰</text>
+  <text x="690" y="528" font-size="18" fill="#0f172a">• 油气风险长期化</text>
+  <text x="690" y="558" font-size="18" fill="#0f172a">• 更像长期消耗与外溢成本上升</text>
+
+  <rect x="220" y="620" width="850" height="60" rx="12" ry="12" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="250" y="657" font-size="18" fill="#334155">基准判断：最可能的是“情景 1 与情景 4 之间的混合体”——军事层面高烈度但受控，能源与海运层面高波动且具有粘性。</text>
+</svg>
