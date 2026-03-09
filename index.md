@@ -9,6 +9,7 @@ title: Reports
 
 ## 最新报告
 
+- <a href="{{ '/2026-03-09-us-iran-finance-ai/' | relative_url }}">美伊冲突金融与 AI 产业链研报（2026-03-09）</a>
 - <a href="{{ '/2026-03-09-us-iran-geopolitics/' | relative_url }}">美伊冲突地缘政治研报（2026-03-09）</a>
 
 ## 说明
